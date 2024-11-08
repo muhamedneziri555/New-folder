@@ -1,0 +1,16 @@
+{
+  "name": "newfolder-project",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "gsap": "^3.9.1",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
